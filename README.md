@@ -1,4 +1,4 @@
-# customlist
+# Custom ListView
 
 ListView.custom List Assignment
 ![image](https://user-images.githubusercontent.com/87460435/200155269-68dc84b8-12c7-440c-a1b0-dc7edd58baa7.png)
